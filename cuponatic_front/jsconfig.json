@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "actions/*": ["./actions/actions"],
+      "api/*": ["./api"],
+      "components/*": ["./components"],
+      "pages/*": ["./pages"],
+      "reducer/*": ["./redux/reducer"],
+      "redux/*": ["./redux"],
+      "utils/*": ["./utils"],
+      "scss/*": ["./scss"]
+    }
+  }
+}

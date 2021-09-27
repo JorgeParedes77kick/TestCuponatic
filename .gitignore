@@ -1,0 +1,12 @@
+
+###> symfony/framework-bundle ###
+cuponatic_back/.env.local
+cuponatic_back/.env.local.php
+cuponatic_back/.env.*.local
+cuponatic_back/config/secrets/prod/prod.decrypt.private.php
+cuponatic_back/public/bundles/
+cuponatic_back/var/
+cuponatic_back/vendor/
+###< symfony/framework-bundle ###
+cuponatic_front/node_modules
+cuponatic_front/.next

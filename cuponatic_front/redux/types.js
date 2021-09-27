@@ -1,0 +1,6 @@
+export const DATA_INIT = "DATA_INIT";
+export const DATA_INIT_FAILED = "DATA_INIT_FAILED";
+export const DATA_INIT_SUCCESS = "DATA_INIT_SUCCESS";
+export const ADD_AMOUNT = "ADD_AMOUNT";
+export const UPDATE_AMOUNT = "UPDATE_AMOUNT";
+export const UPDATE_ORDER_PAGE = "UPDATE_ORDER_PAGE";
