@@ -17,7 +17,7 @@
 Primeramente, es necesario clonar el repositorio via git mediante el comando:
 
 ```
-$ git clone
+$ git clone https://github.com/JorgeParedes77kick/testCuponatic.git
 ```
 
 Para instalar y desplegar la aplicación web de manera local, es necesario tener ciertas dependencias instaladas previamente. Estas son:
