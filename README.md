@@ -68,7 +68,7 @@ $ npm install
 
 Instalar extension en su navegador que permita el acceso de cors.
 
-En caso de estar utilizando google cromme se recomienda
+En caso de estar utilizando google chrome se recomienda
 [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=es).
 
 ### Levantar la aplicación web de manera local
